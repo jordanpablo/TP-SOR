@@ -1,0 +1,8 @@
+Cortar|Ajo|Cebolla|Perejil|
+Cortar|Lechuga|Tomate|
+Hornear|Pan|
+Mezclar|CarnePicada|Verduras|
+Salar|Sal|
+Armar|Mezcla|
+Cocinar|Medallones|
+Armar|Hamburguesa|
