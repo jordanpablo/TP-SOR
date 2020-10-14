@@ -53,6 +53,8 @@ s_saleroLibre       1	  1	1	0	1	1	1	1
 
 s_cocinaLibre       1	  1	1	1	1	0	1	1
 
+cortarCPA	    1	  0	0	0	0	0	0	0
+
 s_mezclarCPAyCarne  0	  1	0	0	0	0	0	0
 
 s_salarMezcla       0	  0	1	0	0	0	0	0
