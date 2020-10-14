@@ -20,8 +20,8 @@ Armar Hamburguesa
 
 	p(s_mezclarCPAyCarne)         p(s_hornoLibre)
 	mezclarCPAyCarne()            hornearPan()
-	v(s_salarMezcla)              v(s_panListo)
-                                v(s_hornoLibre)
+	v(s_salarMezcla)              v(s_panListo
+					v(s_hornoLibre)
 
 	p(s_salarMezcla)
 	p(s_saleroLibre)
