@@ -38,7 +38,7 @@ Armar Hamburguesa
 
 Prueba:
 EI= Estado Inicial
-					EI
+			EI
 s_hornoLibre		1	0	0	0	1	1	1	1
 s_saleroLibre 		1	1	1	0	1	1	1	1
 s_cocinaLibre		1	1	1	1	1	0	0	1
